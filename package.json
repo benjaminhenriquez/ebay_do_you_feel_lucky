@@ -2,15 +2,10 @@
   "name": "ebay_do_you_feel_lucky",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-    },
+  "main": "app.js",
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "handlebars": "^4.0.6",
-    "ejs": "~1.0.0",
-   "express": "~4.9.8"
+    "handlebars": "^4.0.6"
   },
   "devDependencies": {},
   "scripts": {
