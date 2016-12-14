@@ -43,7 +43,7 @@ class EbayAdapter {
   }
 
   static getCategories() {
-    var apiURL = `https://open.api.ebay.com/shopping`
+    var apiURL = `http://open.api.ebay.com/shopping`
     var queryData = {
       'version': '967',
       'appid': 'CalebCox-Test-PRD-745f6444c-e2e81b28',
